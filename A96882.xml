@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>As you were: or A posture of peace: presenting to your view the broken state of the kingdom, as it now stands, with a good way to rally it to its former happiness. With some remarkable passages of late agitation.</title>
+            <author>Woodward, Ezekias, 1590-1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96882</idno>
+            <idno type="STC">Wing W3479</idno>
+            <idno type="STC">Thomason E404_9</idno>
+            <idno type="STC">ESTC R201847</idno>
+            <idno type="EEBO-CITATION">99862336</idno>
+            <idno type="PROQUEST">99862336</idno>
+            <idno type="VID">114493</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114493)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E404[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>As you were: or A posture of peace: presenting to your view the broken state of the kingdom, as it now stands, with a good way to rally it to its former happiness. With some remarkable passages of late agitation.</title>
+                  <author>Woodward, Ezekias, 1590-1675.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Ezekias Woodward by Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114493:1" rendition="simple:additions"/>
+            <p> As you were: OR A Poſture of Peace: Preſenting to your view the bro<g ref="char:EOLhyphen"/>ken ſtate of the Kingdom, as it now ſtands, with a good way to rally it to its former happineſs. With ſome remarkable Paſſages of late Agitation.</p>
+            <q>
+               <hi>Finis Belli Pax.</hi>
+            </q>
+            <p>LONDON, Printed in the Year 1647.</p>
+            <pb facs="tcp:114493:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:114493:2"/>
+            <head>As you were; OR <hi>A Posture of Peace.</hi>
+            </head>
+            <p>
+               <hi>SOLONS</hi> Law againſt Neutrality, in a civil diſſention, is moſt unreaſonable, becauſe in ſome caſes it muſt engage a man on diſhoneſt or diſhonorable action. For in that civil broyl between <hi>Caeſar</hi> and <hi>Pompey,</hi> which ſide ſhould a man have ranged himſelf unto, when both were ſo pernicious to the Common-wealth, that put <hi>Cicero</hi> to a ſtand? Or in that tripartite diviſion of <hi>Ieruſalem</hi> that uſhered in its final deſolation, where the beſt was ſo baſe that no honeſt man had the face to own it?</p>
+            <p>We have had here in <hi>England</hi> a moſt unhappy and un<g ref="char:EOLhyphen"/>natural diviſion, and for a long time heard of no more but two parties under the names of <hi>Cavalier</hi> and <hi>Round-head;</hi> the firſt proper enough and rightly given, but the reaſon of the latter let him render you that firſt im<g ref="char:EOLhyphen"/>poſed it. The flowers of that <hi>garland</hi> that both ſides ſtrove for were the <hi>Proteſtant Religion, the Laws of the Land, the Kings juſt rights, the Priviledges of Parlia<g ref="char:EOLhyphen"/>ment, and Liberty of the Subject,</hi> each pretending they would flouriſh beſt in his own <hi>Garden;</hi> But what ever pretences were, or however in time quarrels may en<g ref="char:EOLhyphen"/>creaſe and one beget another, yet ſure at firſt the <hi>Helens</hi> both ſtrove for was only Church policy, wherein <hi>E<g ref="char:EOLhyphen"/>piſcopacy</hi> met with a Rival that carried her not with Courtſhip but Rape. The <hi>Cavalier</hi> is diſmounted,
+<pb n="4" facs="tcp:114493:3"/> the <hi>Roundhead</hi> is faln himſelf into a ſubdiviſion of <hi>Presbytery and Independency;</hi> the latter in its full latitude is like a <hi>Megallanica</hi> a vaſt unknown tract, no man can tell how far it reaches; only coaſting upon it ſuch diſ<g ref="char:EOLhyphen"/>covery is made as finds it a place of priviledg for all Sectaries in the world, and how many thoſe are or may be no man can ſay for certain, until the devil hath done brooding. If the former be quite defunct [as we heat her laſt Will is made) I doubt the latter wil divide again &amp; fal into a <hi>thouſandpieces;</hi> but now, I think on't, we never heard of any ſtrife among the <hi>Heathen</hi> about any point of <hi>Religion;</hi> their falſe gods were all good fellows; and all falſe worſhips do commonly keep good fellow<g ref="char:EOLhyphen"/>ſhip; and thats the reaſon now that all Sectaries tug ſo hard for Toleration. The <hi>Romans</hi> had their <hi>Pantheon</hi> or Temple of all the gods; but the true God is a jea<g ref="char:EOLhyphen"/>lous God, <hi>Dagon</hi> and the <hi>Ark</hi> cannot ſtand together.</p>
+            <p>And for <hi>Presbytery,</hi> it is but a new name to an old ſtuff, a common cheat in the world, when men intend to make it worſe. And if there were formerly a <hi>Church-Tyranny</hi> that inſlaved us, as ſome cryed out, that think their very Garters are Gyves; then now, as <hi>Philip</hi> of <hi>Ma<g ref="char:EOLhyphen"/>cedon</hi> ſaid of the <hi>Greeks,</hi> that left his alliance to ſide with <hi>Titus Quintus,</hi> at the beſt we have but changed our fet<g ref="char:EOLhyphen"/>ters. For what power is challenged by this <hi>Presbyterian policy,</hi> and what Majeſty by this new Hierarchy, you ſhal hear by their words and ſee in their practiſe. For the Church is never governed aright according to their mode, until Kings and Queens do ſubject themſelves unto the Church, and ſubmit their Scepters and throw down their Crowns before the Church and lick up the duſt of the feet of the Church (as good kiſs the Popes toe) and willingly abide the cenſure of the Church.
+<pb n="5" facs="tcp:114493:3"/> The civil Magiſtrate is no officer at all in the Church; The Presbytery or Elderſhip is the Church, and every Congregation or Church muſt have a Presbytery; and all <hi>Kings and Princes</hi> muſt be of ſome Pariſh and under ſome Presbytery. And the Gentry muſt yet expect leſs then the King; <hi>be enſlaved in their own Lordſhips by a new way of Parochial Tyranny; for if they conform not then they must expect in a ſhort time to ſee the meaneſt of their tenants become their maſters in judicature, and ſo this prime miſtery wil produce that great vanity that</hi> Solomon <hi>ſpeaks of; The ſervant ſhal ride and the master go a foot.</hi> Their practiſe hath been accordingly, as in Scotland, where the heat of Presbytery hath prvoed ſuch a He<g ref="char:EOLhyphen"/>ctique in the body politick thereof, that the ſubſtance of Kingly power is utterly conſumed, and nothing left now but the bare bones and very skeleton of a Monar<g ref="char:EOLhyphen"/>chy.</p>
+            <p>Now next let us look upon the Independent and ſee what we may hope for from them. The Sectaries teach, that the ſtate univerſal, the body of the Com<g ref="char:EOLhyphen"/>people, is the earthly Soveraign, Lord, King, and crea<g ref="char:EOLhyphen"/>tor. If the King, Parliament, all officers and reſides in the ſtate univerſal, and the King, Parliament &amp;c. are their own meer creatures, to be accountable to them, and diſpoſed of by them at their pleaſure; the people may recal and re-aſſume their power, queſtion them. and ſet others in their place. That the Lords and Peers of the Land, are but painted puppets, and Da<g ref="char:EOLhyphen"/>gons, that our ſuperſtition and ignorance, their own craft and impudence have erected, no natu<g ref="char:EOLhyphen"/>ral iſſue of Laws, but the Muſhromes of Pre<g ref="char:EOLhyphen"/>rogative, the wens of Juſt Government
+<pb n="6" facs="tcp:114493:4"/> ſons of conqueſt and uſurpation, not of choice and ele<g ref="char:EOLhyphen"/>ction; intruded upon us by power, not conſtituted by conſent, not made by the people from whom all power place and office that is juſt in this Kingdom ought only to ariſe. That they are a clog to publick proceedings obſtructing good, promoting evil things; their peſtilent Pamphlets are full of ſuch railings, whereby ye may ſee their endeavors to alter and overthrow the very funda<g ref="char:EOLhyphen"/>mentals of the Government of this Kingdom. Nay they aſcend higher and are not afraid to utter deſperate ſpee<g ref="char:EOLhyphen"/>ches againſt ſacred Majeſty it ſelf, not fit to be repeated. And then for the Church what out-cries there are to down with all <hi>Government, Maintenance and Miniſtry,</hi> and then the freer up with that great <hi>Diana</hi> of <hi>Toleration;</hi> they boldly aſſert, <hi>It is the wil and command of God, that, ſince the comming of his ſon the Lord Ieſus, a permiſsion of the moſt Paganiſh, Iewiſh, Turkiſh or Antichriſtian Con<g ref="char:EOLhyphen"/>ſciences and worſhips be granted to all men in all Countries and Nations.</hi>
+            </p>
+            <p>And now what hopes can we conceive of theſe two, to ſet King or Kingdom in a laſting peace, that are ſo op<g ref="char:EOLhyphen"/>poſite not only one to another, ſtanding upon punctilios not conſiderable with the loſs of the meaneſt man, but al<g ref="char:EOLhyphen"/>ſo to monarchy &amp; true liberty, Whereunto, Anarchy &amp; Tyranny are enemies alike. But ſtay: who are yonder ſo ſerious in diſcourſe? One of them is the noble <hi>Irenaeus:</hi> Ile draw as near as I can unperceaved, and liſten if I can hear any comfortable hopes of a good accommodation.</p>
+            <p>
+               <hi>Irenaeus.</hi> Gentlemen, I cannot without a bleeding heart conſider, that after all theſe miſeries of ſo redious a war, there ſhould be ſo little relenting and ſo much bitterneſs amongſt us, as I perceive by your diſcourſes there is. The abuſes in the ſtate, were hope are wel re<g ref="char:EOLhyphen"/>formed;
+<pb n="7" facs="tcp:114493:4"/> and that gratious grant of a trienniall Parlia<g ref="char:EOLhyphen"/>ment, is an impregnable rampire againſt all future aſ<g ref="char:EOLhyphen"/>ſaults of your publick Rights and Liberties. Troubles in the Common-wealth do commonly ariſe from diſ<g ref="char:EOLhyphen"/>ſenſions in the Church; and diſſenſions in the Church do commonly ariſe from the pride and covetouſneſs of Church-men. Who, if they could be as lowly and meek as their great maſter was, may quickly end this Controverſy of Church-Government; that now is like to blow up a new flame: The being or purity of Reli<g ref="char:EOLhyphen"/>gion is no way concerned in it. It was once in the hands of Biſhops, many of them, men of admirable piety and learning; and (if that groſs mixture of Ceremonies were laid aſide, and that ſweeping tayl cut off, that un<g ref="char:EOLhyphen"/>neceſſary and pernicious rable that followed their heels) there it might happyly have continued. Now it is in the hands of the Presbytery, of men, for their pious and indefatigable labours, as wel deſerving of the Church as any; and if men would but rightly conceive it as it is, nothing but the old Government and diſcipline in new hands, that perhaps endeavor to give a better account of it. I ſee no reaſon why any but looſe livers need to except againſt it; their rigid cenſures, ſo commonly accounted, being nothing, but what our own Church in the old Liturgy enjoyned, and every Miniſter ought to have practiſed. A third party, whom they call Independent, do refuſe to admit any external policy or power at all in the Church, but indeed would pluck it from others, to take it to themſelves: the ſtrif is for nothing but rule. The only remedy wil be to com<g ref="char:EOLhyphen"/>mand every man to his own place again; the Common<g ref="char:EOLhyphen"/>wealth being newly rack't and every member out of joynt. And as in the body natural, the inſolence of ſome
+<pb n="8" facs="tcp:114493:5"/> humours encroaching on the bounds of the reſt cauſe great diſtempers: ſo in this body politique, pride, and covetouſneſs of men, not content with their own pla<g ref="char:EOLhyphen"/>ces or portions, is the only cauſe of theſe diſtractions.</p>
+            <p>Let every Member then do his proper office, the Ma<g ref="char:EOLhyphen"/>giſtrate with the ſword, the Miniſter in the word, the Merchant in his trade; every man mind his own buſi<g ref="char:EOLhyphen"/>neſs: And becauſe the people dote ſtil ſo much upon the old form of Church Government, and diſcipline; if it were reſtored again to the firſt hands and priſtine ſtate, with ſuch cautions and limitations as may conſiſt with publick ſafety, it may prove an excellent Cement to cloſe all again. But above all, if his ſacred Majeſty the head of this great body were ſeated again with his great Councel of Parliament, by whoſe influence we all receive our civil life and motion; then, though we are many Members, yet we ſhould all move as one man a<g ref="char:EOLhyphen"/>gain, and all mind the ſame thing, even peace and love.</p>
+            <l>And then if we mean in peace to live</l>
+            <l>Let all ſtrive who ſhal moſt forgive.</l>
+            <l>That by ſo doing all may move</l>
+            <l>Each other to a mutual love.</l>
+            <l>Which if we do, our foes wil be</l>
+            <l>Our freinds, and both be ſafe and free</l>
+            <l>From what is fear'd, and live together</l>
+            <l>A mutual ſtrength to one another.</l>
+            <l>Whoſe factions if they long endure</l>
+            <l>Wil prove a plague without a cure.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
